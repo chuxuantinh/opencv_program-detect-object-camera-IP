@@ -1,0 +1,1 @@
+Right now the script needs both grive_sync.py and security.py running at the same time.  The grive_sync.py script will constantly try to sync the Google drive folder with the cloud, while the security.py script will do the actual video recording.
